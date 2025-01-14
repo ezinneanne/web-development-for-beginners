@@ -21,7 +21,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ezinneanne', // Usually your GitHub org/user name.
   projectName: 'web-development-for-beginners', // Usually your repo name.
-  deploymentBranch: 'main',
+  deploymentBranch: 'new_branch',
 
   trailingSlash: false,
 
